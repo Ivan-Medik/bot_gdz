@@ -4,8 +4,6 @@ TOKEN = "998715458:AAGxzlpd1l9rg4bIMesIYobd9Hn-rHkyTM0"
 
 bot = telebot.TeleBot(TOKEN)
 
-bot.run(TOKEN)
-
 number_class_list = []
 book_list = []
 page_list = []
