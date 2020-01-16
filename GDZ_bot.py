@@ -1,5 +1,4 @@
 import telebot
-import os
 
 TOKEN = "998715458:AAGxzlpd1l9rg4bIMesIYobd9Hn-rHkyTM0"
 
