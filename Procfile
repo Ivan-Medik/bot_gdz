@@ -1,0 +1,1 @@
+worker: python GDZ_bot.py
