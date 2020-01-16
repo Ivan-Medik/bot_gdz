@@ -1,9 +1,10 @@
 import telebot
 
-TOKEN = "BOT_TOKEN"
+TOKEN = "998715458:AAGxzlpd1l9rg4bIMesIYobd9Hn-rHkyTM0"
 
 bot = telebot.TeleBot(TOKEN)
 
+bot.run()
 
 number_class_list = []
 book_list = []
