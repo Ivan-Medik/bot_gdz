@@ -128,3 +128,4 @@ def decision_message(message):
 print("Бот исправен и готов к использованию.")
 
 bot.polling()
+bot.run(str(TOKEN))
